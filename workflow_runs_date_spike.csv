@@ -1,0 +1,14 @@
+date;id;workflow name;main success runs;main failure runs;main cancelled runs;main skipped runs;main retries;main min duration;main avg duration;main max duration;pr success runs;pr failure runs;pr cancelled runs;pr skipped runs;pr retries;pr min duration;pr avg duration;pr max duration
+2023-07-25;_security-alerts.yml;Send dependabot new vulnerability alerts;7;0;0;0;0;0,0002662037037;0,0003207671958;0,0004050925926;0;0;0;0;0;0;0;0
+2023-07-24;_security-alerts.yml;Send dependabot new vulnerability alerts;20;0;0;0;0;0,0001157407407;0,0002297453704;0,001516203704;0;0;0;0;0;0;0;0
+2023-07-23;_security-alerts.yml;Send dependabot new vulnerability alerts;7;0;0;0;0;0,01277777778;0,01508928571;0,02025462963;0;0;0;0;0;0;0;0
+2023-07-22;_security-alerts.yml;Send dependabot new vulnerability alerts;28;7;0;0;1;0,009016203704;0,01360152116;0,02568287037;81;34;11;0;10;0,000787037037;0,01258680556;0,03107638889
+2023-07-21;_security-alerts.yml;Send dependabot new vulnerability alerts;35;0;0;0;0;0,01009259259;0,0138343254;0,02040509259;108;4;14;0;2;0,000775462963;0,01338312022;0,03327546296
+2023-07-20;_security-alerts.yml;Send dependabot new vulnerability alerts;27;8;0;0;0;0,008703703704;0,01270039683;0,01795138889;93;22;11;0;7;0,000787037037;0,01051495444;0,03049768519
+2023-07-19;_security-alerts.yml;Send dependabot new vulnerability alerts;33;2;0;0;0;0,008159722222;0,01069708995;0,0159375;99;16;11;0;2;0,0007638888889;0,009958021017;0,0187962963
+2023-07-18;_security-alerts.yml;Send dependabot new vulnerability alerts;1;0;0;0;0;0,0001736111111;0,0001736111111;0,0001736111111;127;0;0;0;1;0,0001041666667;0,0004229549431;0,006134259259
+2023-07-25;_security-alerts.yml;Send dependabot new vulnerability alerts;35;0;0;0;0;0,001990740741;0,002965608466;0,00931712963;119;2;5;0;0;0,0007523148148;0,003049584803;0,01865740741
+2023-07-25;_security-alerts.yml;Send dependabot new vulnerability alerts;35;0;0;0;0;0,0005555555556;0,0009302248677;0,002349537037;125;0;1;0;0;0,0005208333333;0,00120223398;0,01537037037
+2023-07-25;_security-alerts.yml;Send dependabot new vulnerability alerts;17;18;0;0;0;0,006979166667;0,01395006614;0,06606481481;59;55;12;0;31;0,000787037037;0,0104176771;0,0434375
+2023-07-25;_security-alerts.yml;Send dependabot new vulnerability alerts;34;1;0;0;0;0,001793981481;0,00487037037;0,007708333333;116;1;9;0;0;0,0007523148148;0,004957469871;0,01304398148
+2023-07-25;_security-alerts.yml;Send dependabot new vulnerability alerts;35;0;0;0;0;0,0007291666667;0,001203703704;0,002523148148;124;0;2;0;0;0,0007175925926;0,001498291446;0,01541666667
